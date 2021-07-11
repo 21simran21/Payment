@@ -14,5 +14,5 @@ invoice will contain the amount.
 ◇ On any page / email, only basic information is needed.
 
 
-#HTML #CSS #Bootstrap Payment Gateway - Razorpay
+#HTML #CSS #JavaScript #Bootstrap_Payment_Gateway - Razorpay
 
